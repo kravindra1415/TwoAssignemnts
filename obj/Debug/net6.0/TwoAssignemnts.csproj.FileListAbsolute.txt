@@ -1,0 +1,15 @@
+E:\Wai\CSharp\TwoAssignemnts\bin\Debug\net6.0\TwoAssignemnts.exe
+E:\Wai\CSharp\TwoAssignemnts\bin\Debug\net6.0\TwoAssignemnts.deps.json
+E:\Wai\CSharp\TwoAssignemnts\bin\Debug\net6.0\TwoAssignemnts.runtimeconfig.json
+E:\Wai\CSharp\TwoAssignemnts\bin\Debug\net6.0\TwoAssignemnts.dll
+E:\Wai\CSharp\TwoAssignemnts\bin\Debug\net6.0\TwoAssignemnts.pdb
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.csproj.AssemblyReference.cache
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.AssemblyInfoInputs.cache
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.AssemblyInfo.cs
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.csproj.CoreCompileInputs.cache
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.dll
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\refint\TwoAssignemnts.dll
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.pdb
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\TwoAssignemnts.genruntimeconfig.cache
+E:\Wai\CSharp\TwoAssignemnts\obj\Debug\net6.0\ref\TwoAssignemnts.dll
